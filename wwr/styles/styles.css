@@ -1,0 +1,32 @@
+#content {
+    max-width: 1600px;
+}
+
+#background {
+    height: 725px;
+    background-color: aquamarine;
+}
+
+.logo, .icon {
+    width: 80px
+}
+
+main section {
+    text-align: center;
+}
+nav a, footer a {
+    text-decoration: none;
+}
+header {
+    background-color: blanchedalmond;
+}
+
+#hero-img {
+    width: 100%;
+}
+#hero-msg {
+    text-align: center;
+}
+footer {
+    background-color: blanchedalmond;
+}

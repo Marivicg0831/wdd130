@@ -1,0 +1,44 @@
+#practice {
+    background-color: blue;
+    height: 70px;
+}
+
+#practice2 {
+    width: 600px;
+    background-color: red;
+    height: 100px;
+}
+.practice3 {
+    background-color: green;
+    margin-top: -20px;
+height: 200px;    
+}
+
+#gridsetup {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    max-width: 1200%;
+    background-color: yellow;
+    height: 340px;
+}
+.card-img {
+
+}
+
+.rivers-img {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    width: 30%;
+}
+
+.rapids-img {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    width: 30%;
+}
+.camping-img {
+    grid-column: 3/4;
+    grid-row: 1/2;
+    width: 30%;
+}
